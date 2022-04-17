@@ -1,0 +1,1 @@
+rostopic echo /vins_fusion/imu_propagate
